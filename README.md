@@ -31,6 +31,8 @@ cd Hello-microverse-trial-review
 
 Open with live server
 
+```
+
 ### Install
 
 ### Usage
@@ -40,14 +42,13 @@ Open with live server
 ### Deployment
 
 
-
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/christianbiring1)
-- Twitter: [@twitterhandle](https://twitter.com/christian)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/christian-biringanine)
+- GitHub: https://github.com/christianbiring1
+- Twitter: https://twitter.com/christian
+- LinkedIn: https://linkedin.com/in/christian-biringanine
 
 ## 🤝 Contributing
 
